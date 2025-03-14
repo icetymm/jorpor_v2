@@ -1,0 +1,1894 @@
+> Ready on http://localhost:\\.\pipe\3a186367-3221-46f1-92eb-bbfd540f43b9
+RES-----------------:  {
+  formData: { employee: '1111111', password: '111111' },
+  rememberedDataArray: null,
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', fetch_role_2: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', data_role_2: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+LangResultmap:  [ 'EN' ]
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  {
+  responseValue: 'เครื่องจักรขัดข้อง',
+  idValue: '163',
+  responseDetail: true
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  {
+  responseValue: 'เครื่องจักรขัดข้อง',
+  idValue: '162',
+  responseDetail: true
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  {
+  responseValue: 'Broken machinery',
+  idValue: '164',
+  responseDetail: true
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  {
+  responseValue: 'เครื่องจักรขัดข้อง',
+  idValue: '139',
+  responseDetail: true
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES-----------------:  {
+  formData: { employee: '654321', password: '654321' },
+  rememberedDataArray: null,
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '47', response_role_3: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+LangResultmap:  [ 'EN' ]
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  {
+  responseValue: 'เครื่องจักรขัดข้อง',
+  idValue: '139',
+  responseDetail_role_3: true
+}
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '47', response_role_3: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES-----------------:  {
+  formData: { employee: '1111111', password: '111111' },
+  rememberedDataArray: null,
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '34', response_role_2: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES-----------------:  {
+  formData: { employee: '112233', password: '112233' },
+  rememberedDataArray: null,
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: null, get: true }
+Formatted Date: 9/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_SELECTTTTT:  { storedId: '132', Num: '3', button_change: true }
+2222:  s {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  info: '',
+  serverStatus: 2,
+  warningStatus: 0,
+  changedRows: 0
+}
+12212:  3
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 2, 4 ]
+res emer:  { notification: '', change: true }
+res change:  { notification: '', change: true } undefined undefined undefined
+Failed to update status or no matching records
+Data in res.notification does not match any record in emergency_notify
+RES_ROUTE_SELECTTTTT:  { storedId: '132', Num: '2', button_change: true }
+2222:  s {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  info: '',
+  serverStatus: 2,
+  warningStatus: 0,
+  changedRows: 0
+}
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+res emer:  { notification: '', change: true }
+res change:  { notification: '', change: true } undefined undefined undefined
+Failed to update status or no matching records
+Data in res.notification does not match any record in emergency_notify
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 9/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  [
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  }
+]
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN', 'EN' ]
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+LangResultmap:  [ 'EN', 'EN' ]
+LangResultmap:  [ 'EN' ]

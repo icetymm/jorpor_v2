@@ -1,0 +1,153 @@
+/* Import Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Import Google Fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200&family=Mitr:wght@200&family=NTR&family=Noto+Sans+Thai:wght@100&family=Prompt:wght@200&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200&family=Mitr:wght@200&family=NTR&family=Noto+Sans+Thai:wght@100&family=Prompt:wght@200&family=Sarabun&display=swap');
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+/* Body styles */
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgb(var(--background-end-rgb))
+  ) rgb(var(--background-start-rgb));
+  font-family: 'Mitr', sans-serif; /* Use the 'Mitr' font */
+
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+}
+
+.custom-checkbox {
+  appearance: none; /* ลบสไตล์พื้นฐานของ browser */
+  width: 20px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  background-color: #fff;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+
+.custom-checkbox:checked {
+  background-color: #4caf50;
+  border-color: #4caf50;
+}
+
+.custom-checkbox:checked::before {
+  content: "✓";
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.checkbox-label {
+  margin-left: 8px;
+  color: black;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+/* ปรับแต่งสไตล์ของปฏิทิน */
+.react-datepicker__header {
+  background-color: #f7fafc; /* เปลี่ยนสีพื้นหลังของหัวข้อ */
+  border-bottom: 2px solid #e2e8f0; /* ขอบล่างของหัวข้อ */
+}
+
+.react-datepicker__current-month {
+  font-size: 1.2rem; /* ปรับขนาดตัวอักษรของเดือน */
+  font-weight: bold; /* ตัวหนาของเดือน */
+}
+
+.react-datepicker__day {
+  border-radius: 50%; /* ทำให้ปุ่มวันที่เป็นวงกลม */
+  transition: background-color 0.2s ease-in-out;
+}
+
+.react-datepicker__day:hover {
+  background-color: hsl(138, 57%, 30%); /* สีเมื่อโฮเวอร์ */
+  color: white; /* เปลี่ยนสีตัวอักษรเมื่อโฮเวอร์ */
+}
+
+.react-datepicker__day--selected {
+  background-color: hsl(138, 52%, 42%); /* */
+  color: white; /* เปลี่ยนสีตัวอักษรเมื่อวันที่ถูกเลือก */
+}
+
+.react-datepicker__triangle {
+  display: none; /* ซ่อนลูกศรที่มุม */
+}
+
+/* ปรับแต่งปฏิทินให้ดูเป็นแนวตั้ง */
+.react-datepicker__month {
+  margin-top: 10px;
+}
+
+.react-datepicker__input-container input {
+  padding: 8px 12px; /* เพิ่ม padding ให้กับ input */
+  border-radius: 8px; /* ปรับขอบให้โค้งมน */
+  border: 1px solid #cbd5e0; /* กำหนดขอบของ input */
+  font-size: 1rem; /* ขนาดฟอนต์ */
+  outline: none;
+}
+
+.react-datepicker__input-container input:focus {
+  border-color: #cacaca; /* เปลี่ยนสีขอบเมื่อโฟกัส */
+  box-shadow: 0 0 5px rgba(12, 194, 97, 0.5); /* เพิ่มเงาเมื่อโฟกัส */
+}
+
+.download-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 6%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.download-button {
+  background: #5A975E;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.download-button:hover {
+  background: #436e46;
+  box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.download-button::before {
+  content: '⬇️';
+  font-size: 20px;
+}
+

@@ -1,0 +1,91 @@
+> Ready on http://localhost:\\.\pipe\62760f7d-8d2c-4a57-a8ac-a5771ad3c51c
+RES-----------------:  {
+  formData: { employee: '112233', password: '112233' },
+  rememberedDataArray: [ { employee: '112233', password: '112233' } ],
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: null, get: true }
+Formatted Date: 9/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 9/3/2024
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', meet_role_1: true }
+Data_examine:  []
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 9/3/2024
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+RES_ROUTE_employee:  { storedId: '132', zone: true }
+Data_examine:  []
+RES_ROUTE_employee:  { selectedOption: '', storedId: '132', fetch: true }
+LangResultmap:  [ 'EN', 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+RES_ROUTE_employee:  { selectedOption: 219, storedId: '132', fetch: true }
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN', 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES-----------------:  {
+  formData: { employee: '1111111', password: '111111' },
+  rememberedDataArray: [ { employee: '112233', password: '112233' } ],
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '34', fetch_role_2: true }
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '34', lang_role_2: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]

@@ -1,0 +1,198 @@
+> Ready on http://localhost:\\.\pipe\280b0598-65af-402b-b177-dbcdcac3f930
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '47', response_role_3: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  {
+  responseValue: 'เครื่องจักรขัดข้อง',
+  idValue: '139',
+  responseDetail_role_3: true
+}
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]

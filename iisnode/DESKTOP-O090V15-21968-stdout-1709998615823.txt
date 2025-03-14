@@ -1,0 +1,575 @@
+> Ready on http://localhost:\\.\pipe\16c8d030-ae4f-4fd4-9a1f-39c13a7ee646
+RES-----------------:  {
+  employee: '112233',
+  password: '112233',
+  oldTokemExp: 1710062574,
+  remember: true
+}
+TTTT  112233
+oooouserResult  {
+  id: 132,
+  name: 'chadaphorn',
+  lastname: 'thongphutorn',
+  email: '',
+  position: 'Safety Officer Professional level',
+  employee: '112233',
+  phone: '',
+  line: '',
+  password: '$2a$10$xZF2nfRaGG13FJJGlE2KYe.jR8rRKnxFzvkDrrb8M82JNBiz/eSOC',
+  picture: <Buffer >,
+  role_2_id: 34
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 9/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  [
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  }
+]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES-----------------:  {
+  formData: { employee: '654321', password: '654321' },
+  rememberedDataArray: null,
+  rememberPassword: false
+}
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '47', response_role_3: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  [
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '9/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+Percentages:  {
+  percentage: {
+    location_1: { percentage: '0', count: 0 },
+    location_2: { percentage: '75', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '25', count: 1 }
+  }
+}
+Weekly Results:  [
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '9/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 7
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '9/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: '0', count: 0 },
+    location_2: { percentage: '75', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '25', count: 1 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '14', count: 1 },
+    location_2: { percentage: '57', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '29', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', data_role_3: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES.Route profile88811111111:  { storedId: '47', profile_role_3: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES.Route profile88811111111:  { storedId: '47', profile_role_3: true }
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', data_role_3: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+RESS:  { storedId: '47', response_role_3: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  [
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '9/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+Percentages:  {
+  percentage: {
+    location_1: { percentage: '0', count: 0 },
+    location_2: { percentage: '75', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '25', count: 1 }
+  }
+}
+Weekly Results:  [
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '9/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 7
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '9/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '9/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '9/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '9/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: '0', count: 0 },
+    location_2: { percentage: '75', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '25', count: 1 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '14', count: 1 },
+    location_2: { percentage: '57', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '29', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '47', lang_role_3: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]

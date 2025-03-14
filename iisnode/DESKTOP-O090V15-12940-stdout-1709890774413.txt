@@ -1,0 +1,816 @@
+> Ready on http://localhost:\\.\pipe\64528a93-d8bf-4b96-8318-55fb0e8e2998
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+RES_ROUTE_examineRe88--------------:  { user_IdValue: '132', dateValue: '8/3/2024', fetch: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+nameList:  [ { id: 224, name: 'Zone A' } ] [ { id: 224, name: 'Zone A' } ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_examineRe88--------------:  { selectedOption: 224, id: '132', option: true }
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_examineRe88--------------:  {
+  selectedOption: 224,
+  selectedExamineOption: 374,
+  id: '132',
+  selectExamine: true
+}
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_examineRe88--------------:  { user_IdValue: '132', dateValue: '8/3/2024', fetch: true }
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+nameList:  [ { id: 224, name: 'Zone A' } ] [ { id: 224, name: 'Zone A' } ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+Data_examine:  []
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RESS:  { storedId: '132', fetch: true }
+RES_ROUTE_SELECTTTTT:  { fetchNotify: true }
+Data_examine:  []
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Daily Results:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+Weekly Results:  [
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+] 6
+LangResultmap:  [ 'EN', 'EN' ]
+Monthly Results:  [
+  {
+    id: 522,
+    date: '2/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  },
+  {
+    id: 523,
+    date: '2/3/2024',
+    location: '5',
+    time: '12:21',
+    status: 0
+  },
+  {
+    id: 524,
+    date: '2/3/2024',
+    location: '2',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 525,
+    date: '4/3/2024',
+    location: '1',
+    time: '12:22',
+    status: 0
+  },
+  {
+    id: 526,
+    date: '4/3/2024',
+    location: '2',
+    time: '13:08',
+    status: 1
+  },
+  {
+    id: 527,
+    date: '5/3/2024',
+    location: '5',
+    time: '13:09',
+    status: 0
+  },
+  {
+    id: 528,
+    date: '5/3/2024',
+    location: '2',
+    time: '13:13',
+    status: 1
+  },
+  {
+    id: 529,
+    date: '5/3/2024',
+    location: '2',
+    time: '14:39',
+    status: 1
+  },
+  {
+    id: 530,
+    date: '5/3/2024',
+    location: '5',
+    time: '14:48',
+    status: 1
+  }
+]
+percentagesdaily:  {
+  percentage: {
+    location_1: { percentage: 0, count: 0 },
+    location_2: { percentage: 0, count: 0 },
+    location_3: { percentage: 0, count: 0 },
+    location_4: { percentage: 0, count: 0 },
+    location_5: { percentage: 0, count: 0 }
+  }
+}
+percentagesWeekly:  {
+  percentage: {
+    location_1: { percentage: '17', count: 1 },
+    location_2: { percentage: '50', count: 3 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '33', count: 2 }
+  }
+}
+percentagesmonthly:  {
+  percentage: {
+    location_1: { percentage: '11', count: 1 },
+    location_2: { percentage: '44', count: 4 },
+    location_3: { percentage: '0', count: 0 },
+    location_4: { percentage: '0', count: 0 },
+    location_5: { percentage: '44', count: 4 }
+  }
+}
+aa:  [
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  },
+  {
+    percentage: {
+      location_1: [Object],
+      location_2: [Object],
+      location_3: [Object],
+      location_4: [Object],
+      location_5: [Object]
+    }
+  }
+]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RESS:  {
+  responseValue: 'Broken machinery',
+  idValue: '164',
+  responseDetail: true
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', data_role_1: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+planResult:  [
+  {
+    id: 149,
+    date: '09/03/2024',
+    startTime: '16:00:00',
+    endTime: '18:00:00',
+    activity: 'นัดลูกค้านอกพื้นที่',
+    user_id: 132,
+    meeting: 'false'
+  },
+  {
+    id: 151,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 152,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 153,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 154,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 155,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 156,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 157,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 158,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 159,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 160,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 161,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 162,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  }
+]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', data_role_1: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+planResult:  [
+  {
+    id: 149,
+    date: '09/03/2024',
+    startTime: '16:00:00',
+    endTime: '18:00:00',
+    activity: 'นัดลูกค้านอกพื้นที่',
+    user_id: 132,
+    meeting: 'false'
+  },
+  {
+    id: 151,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 152,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 153,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 154,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 155,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 156,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 157,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 158,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 159,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 160,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 161,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  },
+  {
+    id: 162,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  }
+]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', data_role_1: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+planResult:  [
+  {
+    id: 149,
+    date: '09/03/2024',
+    startTime: '16:00:00',
+    endTime: '18:00:00',
+    activity: 'นัดลูกค้านอกพื้นที่',
+    user_id: 132,
+    meeting: 'false'
+  },
+  {
+    id: 151,
+    date: '09/03/2024',
+    startTime: '09:00:00',
+    endTime: '10:00:00',
+    activity: 'ประชุมหัวหน้าฝ่าย',
+    user_id: 132,
+    meeting: 'true'
+  }
+]
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  {
+  useMeetingAsString: 'true',
+  newStartTime: '16:00',
+  newEndTime: '17:00',
+  newActivity: 'meeting',
+  formattedDate: '09/03/2024',
+  storedUser_id: '132',
+  add_role_1: true
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', meet_role_1: true }
+Data_examine:  []
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN', 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES_ROUTE_employee:  { storedId: '132', zone: true }
+RES_ROUTE_employee:  { selectedOption: '', storedId: '132', fetch: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { selectedOption: 224, storedId: '132', fetch: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  {
+  employee: 'ZA001',
+  name: 'Jenny',
+  lastname: 'Barly',
+  selectedOption: 224,
+  id: '132',
+  add: true
+}
+REA:  {
+  employee: 'ZA001',
+  name: 'Jenny',
+  lastname: 'Barly',
+  selectedOption: 224,
+  id: '132',
+  add: true
+}
+RES_ROUTE_employee:  {
+  employee: 'ZA02',
+  name: 'Celene',
+  lastname: 'morch',
+  selectedOption: 224,
+  id: '132',
+  add: true
+}
+REA:  {
+  employee: 'ZA02',
+  name: 'Celene',
+  lastname: 'morch',
+  selectedOption: 224,
+  id: '132',
+  add: true
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+Data_examine:  []
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+RES.Route profile88811111111:  { storedId: '132', profile_role_1: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES.Route profile88811111111:  { storedId: '132', profile_role_1: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+RES.Route profile88811111111:  {
+  id: 132,
+  name: 'chadaphorn',
+  lastname: 'thongphutorn',
+  email: 'tangmo125x@gmail.com',
+  position: 'Safety Officer Professional level',
+  employee: '112233',
+  phone: '0123456789',
+  line: 'chada22x',
+  password: '$2a$10$bQhft9GqQt9Fn3GCHRX3IesgAs5XXJkUJZ43uMJ7Mbstx3OZUeyrq',
+  picture: {
+    type: 'Buffer',
+    data: [
+      137,  80,  78,  71,  13,  10,  26,  10,   0,   0,   0,  13,
+       73,  72,  68,  82,   0,   0,   0, 250,   0,   0,   0, 250,
+        8,   6,   0,   0,   0, 136, 236,  90,  61,   0,   0,  55,
+      105,  73,  68,  65,  84, 120,  94, 237, 157,   9, 120,  19,
+      213, 218, 199, 239, 243, 221, 251, 221, 237, 249, 174, 215,
+      123, 109, 182, 174,  73, 186, 165,  45,  80,  86,  21,  55,
+       16,   5, 189, 122,  21,  16,  10,  77,   5,  89, 100,  87,
+       84, 214, 178, 211, 210, 150,  46, 200,  86, 104,  17, 220,
+       80,  81,   1,   5,
+      ... 14142 more items
+    ]
+  },
+  role_2_id: 34,
+  edit_role_1: true
+}
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_SELECTTTTT:  { storedId: '132', button: true }
+res emer:  { storedButton: '2', get: true }
+Formatted Date: 8/3/2024
+RES.Route profile88811111111:  { storedId: '132', profile_role_1: true }
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+Data_examine:  []
+RES.Route profile88811111111:  { storedId: '132', profile_role_1: true }
+12212:  2
+ListNumAll:  [ 1, 2, 3, 4, 5 ]
+ค่าที่ไม่ซ้ำ: [ 3, 4 ]
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+RES_ROUTE_employee:  { storedId: '132', lang_role_1: true }
+RES_ROUTE_employeeinput:  undefined
+LangResultmap:  [ 'EN' ]
+LangResultmap:  [ 'EN' ]
+res emer:  { notification: '', change: true }
+res change:  { notification: '', change: true } undefined undefined undefined
+Failed to update status or no matching records
+Data in res.notification does not match any record in emergency_notify
