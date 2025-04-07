@@ -172,128 +172,8 @@ function App() {
 
     fetchData();
   }, []); // โหลดข้อมูลเมื่อค่า state reloadData เปลี่ยนแปลง
-
-//   const handlePreviousDate = () => {
-//     const previousDate = new Date(currentDate);
-//     previousDate.setDate(currentDate.getDate() - 1);
-//     setCurrentDate(previousDate);
-//   };
-  
-//   const handleNextDate = () => {
-//     const nextDate = new Date(currentDate);
-//     nextDate.setDate(currentDate.getDate() + 1);
-//     setCurrentDate(nextDate);
-//   };
-
-//   useEffect(() => {
-//     if (chartRef.current) {
-//       const ctx = chartRef.current.getContext('2d');
-//       new Chart(ctx, {
-//         type: 'bar',
-//         data: {
-//           labels: ['1 week', '1 month', '5 months', '1 year'],
-//           datasets: [
-//             {
-//               label: 'เครื่องจักร',
-//               data: [12, 19, 3, 5],
-//               backgroundColor: 'rgba(255, 99, 132)',
-//               borderWidth: 1,
-//             },
-//             {
-//               label: 'การแต่งกาย',
-//               data: [8, 15, 5, 8],
-//               backgroundColor: 'rgba(54, 162, 235)',
-//               borderWidth: 1,
-//             },
-//             {
-//               label: 'พื้นที่เสี่ยง',
-//               data: [5, 10, 2, 4],
-//               backgroundColor: 'rgba(255, 206, 86)',
-//               borderWidth: 1,
-//             },
-//           ],
-//         },
-//         options: {
-//           scales: {
-//             y: {
-//               beginAtZero: true,
-//             },
-//           },
-//         },
-//       });
-//     }
-
-//     var lineCtx = document.getElementById('lineChart').getContext('2d');
-//     var lineChart = new Chart(lineCtx, {
-//       type: 'line',
-//       data: {
-//         labels: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-//         datasets: [
-//           {
-//             data: [86, 114, 106, 106, 107, 111, 133],
-//             label: "เครื่องจักร",
-//             borderColor: "#c45850",
-//             backgroundColor: "#d78f89",
-//             fill: false,
-//           },
-//           {
-//             data: [10, 21, 60, 44, 17, 21, 17],
-//             label: "การแต่งกาย",
-//             borderColor: "#3e95cd",
-//             backgroundColor: "#7bb6dd",
-//             fill: false,
-//           },
-//           {
-//             data: [6, 3, 2, 2, 7, 0, 16],
-//             label: "พื้นที่เสี่ยง",
-//             borderColor: "#ffa500",
-//             backgroundColor: "#ffc04d",
-//             fill: false,
-//           },
-//         ]
-//       },
-//     });
-//   }, []);
-
-  // useEffect(() => {
-  //   fetch('/api/calculatePercentage')
-  //     .then((response) => response.json())
-  //     .then((data) => setPercentage(data.percentage))
-  //     .catch((error) => console.error('Error:', error));
-  // }, []);
-  // for (const userId in todoZone) {
-  //   console.log("userId: ", userId);
-  
-  //   // Accessing the array within each userId property
-  //   const idArray = todoZone[userId];
-  
-  //   // Check if idArray is an array before iterating
-  //   if (Array.isArray(idArray)) {
-  //     for (const idObject of idArray) {
-  //       for (const zone in idObject) {
-  //         // Accessing individual zone objects within idObject
-  //         const zoneData = idObject[zone];
-  //         console.log("Zone Object:", zoneData , userId);
-  //         console.log("Name:", zoneData.name , userId);
-  //         console.log("Percentage Zone:", zoneData.percentageZone , userId);
-  //       }
-  //     }
-  //   }
-  // }
-      
-
-      // const idValue = Object.keys(idObject)[0];
-      // const examineArray = idObject[idValue].examine_id;
-
-      // for (const examineInfo of examineArray) {
-      //   // Now you can access properties of examineInfo
-      // }
-    
-      
-    
+   
   const colors = ["#38B6FF","#6699FF", "#5271FF",  "#6633FF","#6633CC", "#9966FF","#9999FF","#99CCFF"];
-
-  
   const data = [];
   const Zone = []
   const currentDateT = new Date();
@@ -359,8 +239,6 @@ function App() {
     // console.log("Zone Data:", Zone);
 
   }
-  
-
   
   return (
     <div>
@@ -565,8 +443,6 @@ function App() {
             </div>
             </div>
             </div>
-
-
 
 
 

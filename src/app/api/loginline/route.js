@@ -59,11 +59,11 @@ export async function POST(request) {
           userResult.lineUserId = res.formData.lineUserId;
         }
 
-          const richMenuDefault = 'richmenu-2d1197262441be4b45aefdc128a4ef86'; // Rich Menu LOG IN
+          const richMenuDefault = 'richmenu-668a614e96f30102c18f46ebdcec79ab'; // Rich Menu LOG IN
           const richMenuIds = {
-            'Safety Officer Supervisory level': 'richmenu-589d497bedefd68f87934399ee33300e', //role 1
-            'Safety Officer Technical level': 'richmenu-c9f9b9b8a63af434735f624acb6ed4c3',    //role 2
-            'Safety Officer Management level': 'richmenu-6d6a70888025fc17d1e942ad4d71a214',  //role 3
+            'Safety Officer Supervisory level': 'richmenu-b2f8ceb805a044bdce67709c0274a9cc', //role 1
+            'Safety Officer Technical level': 'richmenu-5a023a81e2935441f066b1a62521aa46',    //role 2
+            'Safety Officer Management level': 'richmenu-7f46850944f1da8f75db775a9e493c60',  //role 3
           };
 
 
@@ -78,7 +78,7 @@ export async function POST(request) {
             console.error('Failed to set rich menu:', error);
             return NextResponse.json({ success: false, message: 'Failed to set rich menu.' });
           }
-        
+          
         const tokenPayload = {
           employee: res.formData.employee,
           password: res.formData.password,

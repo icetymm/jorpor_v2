@@ -38,8 +38,6 @@ function App() {
   const [todoListNotifyWeekly, setTodoListNotifyWeekly] = useState([]);
   const [todoListNotifyMonthly, setTodoListNotifyMonthly] = useState([]);
 
-
-
   useEffect(() => {
     const storedId = localStorage.getItem('id');
     if (storedId) {
@@ -83,7 +81,6 @@ function App() {
 
     const fetchDataNotify = async () => {
       try {
-
 
         const response = await axios.post('/api/button', { fetchNotify: true }, {
           headers: { 'Content-Type': 'application/json' },

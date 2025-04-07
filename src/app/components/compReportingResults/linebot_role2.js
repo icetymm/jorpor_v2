@@ -229,8 +229,6 @@ function App() {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
 
-     
-      
       const resdata = response.data; 
 
       if (response.status === 200) {

@@ -110,7 +110,6 @@ export default  function CompLogin() {
 
         setFormData((prevFormData) => ({ ...prevFormData, employee: lastItem.employee, password: lastItem.password }));
 
-       
       }
       }
   
@@ -260,9 +259,6 @@ export default  function CompLogin() {
       setIsLoading(false); 
     }
   };
-
-  
-  
 
   return (
     

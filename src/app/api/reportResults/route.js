@@ -13,8 +13,6 @@ export async function POST(request) {
   
       if (res.fetch) {
 
-
-
         const getdate_R2Query = "SELECT DISTINCT date FROM checklist_examine_row_2 WHERE inspector = ?";
         const [getdate_R2QueryResult] = await db.query(getdate_R2Query, [res.user_IdValue]);
       

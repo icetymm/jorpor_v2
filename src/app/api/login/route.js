@@ -7,7 +7,6 @@ import { useSession, signIn, signOut } from "next-auth/react"
 import jwt from 'jsonwebtoken';
 
 
-
 export async function POST(request)  {
   if (request.method === 'POST') {
     const res = await request.json();
